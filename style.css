@@ -22,11 +22,9 @@ body {
 
 .main-container {
     background-color: #2f4f4f;
-    border-radius: 0.4rem;
     width: 40rem;
     height: 17rem;
     margin-top: 5rem;
-    box-shadow: 0 0 10px lightgrey;
 }
 
 .header-container {
