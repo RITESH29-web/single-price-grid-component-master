@@ -2,4 +2,4 @@
 
 Starting the project
 
-Project status: Incomplete
+Project status: Desktop version complete (mobile version left)
