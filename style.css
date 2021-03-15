@@ -66,16 +66,22 @@ body {
     width: 14.5rem;
     height: 2.5rem;
     color: white;
+    font-weight: 700;
     border: none;
+    box-shadow: 0px 10px 12px #1d8294;
     background-color: var(--bright-yellow);
     border-radius: 0.2rem;
     align-items: center;
     justify-content: center;
-    box-shadow: 7px grey;
+}
+
+#signup-button:hover {
+    background-color: #a1bb2c;
 }
 
 a {
     text-decoration: none;
+    color: var(--white);
 }
 
 h1 {
@@ -89,6 +95,7 @@ h2 {
 #30thirtydays {
     font-weight: 700;
 }
+
 
 #monthlysubs {
     font-weight: 700;
